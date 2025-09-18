@@ -1,0 +1,1 @@
+A command-line personal finance tracker in Python. Add, view, and analyze income/expense transactions, manage categories, set budgets, automate recurring payments, and visualize your finances. Data is stored locally in CSV and JSON files.
